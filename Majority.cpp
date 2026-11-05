@@ -40,7 +40,7 @@ while(i<j){
     }
 
     else if(pairsum<target){
-        i++;
+        i++; 
     }
 
     else{
