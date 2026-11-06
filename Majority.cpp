@@ -11,7 +11,7 @@ int main(){
             ans=nums[i];
         }
 
-        if(ans==nums[i])
+        if(ans==nums[i]) 
 { 
     freq++;
   
