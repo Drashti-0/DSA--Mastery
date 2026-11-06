@@ -33,7 +33,7 @@ int nums[]={2,7,11,15};
 int i=0,j=n-1;
 
 while(i<j){
-    int pairsum= nums[i] + nums[j];
+    int pairsum= nums[i] +nums[j];
 
     if(pairsum>target){
         j--;
