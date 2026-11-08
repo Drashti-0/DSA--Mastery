@@ -12,7 +12,7 @@ int bs(int a[], int n, int x)
 
         if(a[m] == x)
         {
-            return m;
+            return m; 
         }
 
         else if(x > a[m])
