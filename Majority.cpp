@@ -29,7 +29,7 @@ int main(){
 
 int nums,target,ans;
 int nums[]={2,7,11,15};
-
+ 
 int i=0,j=n-1;
 
 while(i<j){
