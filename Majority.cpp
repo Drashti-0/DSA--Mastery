@@ -12,7 +12,7 @@ int main(){
         }
 
         if(ans==nums[i]) 
-{ 
+{  
     freq++;
   
 }    
