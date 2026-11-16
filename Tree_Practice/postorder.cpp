@@ -5,7 +5,7 @@ using namespace std;
 
 class node {
 public:
-    int data;
+    int data; 
     node* left;
     node* right;
 
