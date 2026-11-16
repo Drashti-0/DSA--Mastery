@@ -9,7 +9,7 @@ public:
     node* left; 
     node* right;
 
-    node(int val) {
+    node(int val) { 
         data = val;
         left = right = NULL;
     }
