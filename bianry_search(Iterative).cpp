@@ -9,7 +9,7 @@ int bs(int a[], int n, int x)
     while(s <= e)
     { 
         int m = (s + e) / 2; 
-
+ 
         if(a[m] == x)
         {
             return m; 
