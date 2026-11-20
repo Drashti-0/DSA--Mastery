@@ -4,7 +4,7 @@ using namespace std;
 int bs(int a[], int n, int  x)
 {
     int s = 0;
-    int e = n - 1;
+    int e = n - 1; 
   
     while(s <= e)
     { 
