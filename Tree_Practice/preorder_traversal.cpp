@@ -10,7 +10,7 @@ public:
     node* right;
 
     node(int val) {
-        data = val;
+        data = val; 
         left = right = NULL;
     }
   static int index;
