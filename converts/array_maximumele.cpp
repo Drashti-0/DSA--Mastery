@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 using namespace std;
 
 int largest(int a[], int max, int index)
