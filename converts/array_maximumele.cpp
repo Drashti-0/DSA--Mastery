@@ -10,7 +10,7 @@ int largest(int a[], int max, int index)
     }
 
     if (a[index] > max)
-    {
+    { 
         max = a[index];
     }
 
