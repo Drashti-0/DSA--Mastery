@@ -38,7 +38,7 @@ class list{
     }
 
     void push_back(int val){
-        node* newnode = new node(val);
+        node* newnode = new node(val); 
 
         if(head == NULL){
             head=tail=newnode;
